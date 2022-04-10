@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-ignore-public",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ignore public directories at build time",
   "keywords": [
     "vite-plugin"
@@ -34,7 +34,7 @@
   "devDependencies": {
     "@guangzan/eslint-config": "^0.1.3",
     "@types/node": "^14.14.41",
-    "bumpp": "^6.0.6",
+    "bumpp": "^6.1.0",
     "eslint": "^7.24.0",
     "tsup": "^5.11.7",
     "typescript": "^4.2.4",
