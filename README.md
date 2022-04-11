@@ -1,6 +1,6 @@
 # vite-plugin-ignore-public
 
-[![NPM version](https://img.shields.io/npm/v/vite-plugin-ignore-public?color=a1b858&label=)](https://www.npmjs.com/package/vite-plugin-ignore-public)
+[![NPM version](https://img.shields.io/npm/v/vite-plugin-ignore-public?color=1e90ff&label=)](https://www.npmjs.com/package/vite-plugin-ignore-public)
 
 Ignore public directories at build time
 
