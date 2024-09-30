@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-ignore-public",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ignore public directories at build time",
   "keywords": [
     "vite-plugin"
@@ -26,7 +26,7 @@
     "prepublishOnly": "npm run build",
     "build": "tsup src/index.ts --dts --format cjs,esm",
     "dev": "npm run build -- --watch",
-    "release": "bumpp --commit --push --tag && npm publish",
+    "release": "bump --commit --push --tag && npm publish",
     "lint": "eslint \"{src,test}/**/*.ts\"",
     "lint:fix": "npm run lint -- --fix",
     "test": "jest"
